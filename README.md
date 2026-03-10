@@ -1,5 +1,5 @@
 # Challenge TelecomX - Análisis de Evasión de Clientes
-Por Ana Berenice Noriega Camacho.
+Por Ana Berenice Noriega Camacho -  🔗 [LinkedIn](https://www.linkedin.com/in/berenice-noriega/)
 
 ## Introducción
 
