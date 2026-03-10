@@ -26,39 +26,11 @@ Nuestro desafío es recopilar, procesar y analizar los datos, utilizando Python 
 El informe fue creado en un notebook de Python (.ipynb). En secciones siguientes, se explica cómo ejecutarlo para generar todas las visualizaciones. 
 
 - El nombre del archivo es: **TelecomX_LATAM_Informe.ipynb**
-
-## Datos incluidos en el repositorio
-
-Este repositorio incluye los datos utilizados durante el proyecto:
-
-- **TelecomX_Data.json**  
-  Base de datos original utilizada para el análisis.
-
-- **TelecomX_Data_Limpia.csv**  
-  Dataset después del proceso de **limpieza y transformación**.
-
-- **TelecomX_Data_plot.csv**  
-  Dataset especial para graficación, que contiene todas las variables traducidad al español.
-
-Estos archivos permiten **reproducir completamente el flujo de trabajo del proyecto**.
-
---
-
-## Visualización del notebook
-
-El notebook contiene gráficos interactivos generados con Plotly.  
-GitHub no siempre renderiza correctamente este tipo de visualizaciones.
-
-Puedes tener una vista preliminar aquí: 
-[![View Notebook](https://img.shields.io/badge/View-Notebook-orange)](https://nbviewer.org/github/BereNoriega/aluraChallenge-TelecomX/blob/main/TelecomX_LATAM_Informe.ipynb)
-
-O abrir el notebook en **Google Colab** usando el botón incluido, y ejecutarlo siguiendo las instrucciones incluídas en este README.
-
 --
 
 ## Entorno de ejecución recomendado
 
-Se recomienda ejecutar este proyecto en **Google Colab**, ya que el notebook contiene múltiples visualizaciones interactivas que se renderizan correctamente en este entorno.
+Se recomienda ejecutar este proyecto en **Google Colab**, ya que el notebook contiene múltiples visualizaciones interactivas que solo se renderizan correctamente en este entorno.
 
 Google Colab permite ejecutar el código directamente desde el navegador y **no requiere instalar Python ni librerías adicionales** en el equipo local.
 
@@ -79,5 +51,22 @@ Entorno de ejecución - Ejecutar todo
 
 Esto ejecutará todas las celdas del notebook y generará **todas las visualizaciones del análisis**.
 
-Asegúrate de tener cargado el archivo TelecomX_Data.json
+Asegúrate de tener cargado el archivo TelecomX_Data.json en la carpeta de archivos del entorno de Google Colab.
+
 --
+
+## Datos incluidos en el repositorio
+
+Este repositorio incluye los datos utilizados durante el proyecto:
+
+- **TelecomX_Data.json**  
+  Base de datos original utilizada para el análisis.
+
+- **TelecomX_Data_Limpia.csv**  
+  Dataset después del proceso de **limpieza y transformación**.
+
+- **TelecomX_Data_plot.csv**  
+  Dataset especial para graficación, que contiene todas las variables traducidad al español.
+
+Estos archivos permiten **reproducir completamente el flujo de trabajo del proyecto**.
+
