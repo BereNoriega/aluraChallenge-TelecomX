@@ -50,7 +50,7 @@ El notebook contiene gráficos interactivos generados con Plotly.
 GitHub no siempre renderiza correctamente este tipo de visualizaciones.
 
 Puedes tener una vista preliminar aquí: 
-[![View Notebook](https://img.shields.io/badge/View-Notebook-orange)](https://nbviewer.org/github/BereNoriega/aluraChallenge-TelecomX/blob/main/TelecomX_LATAM_Informe_Berenice_Noriega.ipynb)
+[![View Notebook](https://img.shields.io/badge/View-Notebook-orange)](https://nbviewer.org/github/BereNoriega/aluraChallenge-TelecomX/blob/main/TelecomX_LATAM_Informe.ipynb)
 
 O abrir el notebook en **Google Colab** usando el botón incluido, y ejecutarlo siguiendo las instrucciones incluídas en este README.
 
@@ -65,7 +65,7 @@ Google Colab permite ejecutar el código directamente desde el navegador y **no 
 ### Abrir directamente en Google Colab
 Pulsa el siguiente botón: 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BereNoriega/aluraChallenge-TelecomX/blob/main/TelecomX_LATAM_Informe_Berenice_Noriega.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BereNoriega/aluraChallenge-TelecomX/blob/main/TelecomX_LATAM_Informe.ipynb)
 
 Para usar Google Colab solo necesitas:
 - Una **cuenta de Google**
