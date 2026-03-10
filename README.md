@@ -19,10 +19,13 @@ Nuestro desafío es recopilar, procesar y analizar los datos, utilizando Python 
 
 ✅ Crear visualizaciones estratégicas para identificar patrones y tendencias.
 
-
 ✅ Realizar un Análisis Exploratorio de Datos (EDA) y generar un informe con insights relevantes.
 
 ---
+## Notebook del proyecto
+El informe fue creado en un notebook de Python (.ipynb). En secciones siguientes, se explica cómo ejecutarlo para generar todas las visualizaciones. 
+
+- El nombre del archivo es: **TelecomX_LATAM_Informe.ipynb**
 
 ## Datos incluidos en el repositorio
 
@@ -46,7 +49,10 @@ Estos archivos permiten **reproducir completamente el flujo de trabajo del proye
 El notebook contiene gráficos interactivos generados con Plotly.  
 GitHub no siempre renderiza correctamente este tipo de visualizaciones.
 
-Por esta razón se recomienda abrir el notebook en **Google Colab** usando el botón incluido en este README.
+Puedes tener una vista preliminar aquí: 
+[![View Notebook](https://img.shields.io/badge/View-Notebook-orange)](https://nbviewer.org/github/BereNoriega/aluraChallenge-TelecomX/blob/main/TelecomX_LATAM_Informe_Berenice_Noriega.ipynb)
+
+O abrir el notebook en **Google Colab** usando el botón incluido, y ejecutarlo siguiendo las instrucciones incluídas en este README.
 
 --
 
@@ -57,10 +63,11 @@ Se recomienda ejecutar este proyecto en **Google Colab**, ya que el notebook con
 Google Colab permite ejecutar el código directamente desde el navegador y **no requiere instalar Python ni librerías adicionales** en el equipo local.
 
 ### Abrir directamente en Google Colab
+Pulsa el siguiente botón: 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BereNoriega/aluraChallenge-TelecomX/blob/main/TelecomX_LATAM_Informe_Berenice_Noriega.ipynb)
 
-Solo necesitas:
+Para usar Google Colab solo necesitas:
 - Una **cuenta de Google**
 - Abrir el notebook desde el botón anterior
 
@@ -69,6 +76,8 @@ Solo necesitas:
 1. Abrir el notebook en **Google Colab**.
 2. En el menú superior seleccionar:
 Entorno de ejecución - Ejecutar todo
+
 Esto ejecutará todas las celdas del notebook y generará **todas las visualizaciones del análisis**.
 
+Asegúrate de tener cargado el archivo TelecomX_Data.json
 --
